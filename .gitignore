@@ -1,0 +1,14 @@
+http-server/.vscode
+http-server/**/*.o
+http-server/**/__pycache__
+http-server/server/server
+bmp-driver/.vscode
+bmp-driver/**/*.o
+bmp-driver/**/*.o.cmd
+bmp-driver/**/*.ko
+bmp-driver/**/*.ko.cmd
+bmp-driver/**/*.mod
+bmp-driver/**/*.mod.o
+bmp-driver/**/*.mod.c
+bmp-driver/**/*.order
+bmp-driver/**/*.symvers
